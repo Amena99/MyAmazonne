@@ -1,0 +1,1 @@
+INSERT INTO inventory (item_name, category, price, features, condition) VALUES ("GE Maier Refrigerator", "Appliances", 360.00, )
