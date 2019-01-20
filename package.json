@@ -1,0 +1,23 @@
+{
+  "name": "myamazonne",
+  "version": "1.0.0",
+  "description": "This is an online store built in node. It takes orders, updates and maintains inventory, etc.",
+  "main": "myamazonne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amena99/MyAmazonne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amena99/MyAmazonne/issues"
+  },
+  "homepage": "https://github.com/Amena99/MyAmazonne#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
