@@ -1,4 +1,5 @@
-# MyAmazonne- Node-MySql App
+# MyAmazonne
+######An Online Store App Using Express & MySql
 
 
 ### Overview
