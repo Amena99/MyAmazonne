@@ -6,6 +6,7 @@
 This app is the basic workflow of an online store. The App uses MySql to store all inventory data. 
 
 **Basic WorkFlow**
+
 The App prompts the user to select from a variety of categories contained in the store. Once the category is selected, the various items in that category are displayed through MySql queries. Upon selection of an item, the user is able to see various item details and spefications. If the user confirms the purchase of this item, the transaction is completed. The MySql database and the user's account of available funds is updated. The user may continue to then shop for additional items. 
 
 ### Try it Out! 
