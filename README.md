@@ -1,5 +1,5 @@
 # MyAmazonne
-######An Online Store App Using Express & MySql
+###### An Online Store App Using Express & MySql
 
 
 ### Overview
