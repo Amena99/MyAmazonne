@@ -3,7 +3,7 @@
 
 
 ### Overview
-This app is the basic workflow of an online store. The App uses MySql to store all inventory data. 
+This app is the basic workflow of an online store. The App uses MySql to store all inventory data. Click [here](https://youtu.be/WYq4oAi5YlQ) for a video walk-through.
 
 **Basic WorkFlow**
 
@@ -14,3 +14,6 @@ Run "node myamazonne.js" in your terminal then select any category to explore th
 
 ### NPM packages
 MyAmazonne uses the following npm packages: _express_, _mysql_, & _inquirer_. Remember to run "npm install" in your terminal so you can have a fully functional MyAmazonne experience. 
+
+### Video Walk-Through
+[Click here for the video.](https://youtu.be/WYq4oAi5YlQ)
